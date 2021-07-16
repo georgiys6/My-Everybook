@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ежедневник</string>
+    <string name="book_title_hint">Введите название</string>
+    <string name="book_title_label">Название</string>
+    <string name="book_details_label">Детали</string>
+    <string name="bool_solved_label">Отмечено</string>
+    <string name="date_picker_title">Дата</string>
+    <string name="time_picker_title">Время</string>
+    <string name="new_book">Новое напоминание</string>
+    <string name="show_subtitle">Показать подробности</string>
+    <string name="hide_subtitle">Скрыть подробности</string>
+    <string name="subtitle_format">%1$d напоминания</string>
+    <string name="book_suspect_text">Выбрать человека</string>
+    <string name="book_report_text">Отправить напоминание</string>
+    <string name="book_report">%1$s!
+    Фото напоминания на %2$s. %3$s, и %4$s
+  </string>
+    <string name="book_report_solved">Напоминалка выполнена</string>
+    <string name="book_report_unsolved">Напоминалка не выполнена</string>
+    <string name="book_report_no_suspect">это не сделано</string>
+    <string name="book_report_suspect">лицо %s.</string>
+    <string name="book_report_subject">BookIntent Book Report</string>
+    <string name="send_report">Отправить напоминание via</string>
+    <string name="delete_book">Удалить запись</string>
+</resources>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">EveryBook</string>
+    <string name="book_title_hint">Enter a title for the book</string>
+    <string name="book_title_label">Title</string>
+    <string name="book_details_label">Details</string>
+    <string name="bool_solved_label">Solved</string>
+    <string name="date_picker_title">Date of book:</string>
+    <string name="time_picker_title">Time of book:</string>
+    <string name="new_book">New Book</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle_format">%1$d books</string>
+    <string name="book_suspect_text">Choose Suspect</string>
+    <string name="book_report_text">Send Book Report</string>
+    <string name="book_report">%1$s!
+    Reminder on %2$s. %3$s, and %4$s
+  </string>
+    <string name="book_report_solved">The case is solved</string>
+    <string name="book_report_unsolved">The case is not solved</string>
+    <string name="book_report_no_suspect">there is no suspect.</string>
+    <string name="book_report_suspect">the suspect is %s.</string>
+    <string name="book_report_subject">BookIntent Book Report</string>
+    <string name="send_report">Send book report via</string>
+    <string name="delete_book">Delete book</string>
+</resources>
